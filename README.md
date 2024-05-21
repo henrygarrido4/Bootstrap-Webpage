@@ -1,6 +1,6 @@
 # Front end Bootstrap
 
-Website created using bootstrap to using Grid, flex, and other features like adding the accordion and map
+Website created using bootstrap applying Grid, flex, and other features like adding the accordion and mapbox.
 
 # What I learned
 
